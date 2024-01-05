@@ -71,9 +71,9 @@ export default function NavBar({ onSearch }) {
             <Box
               component="img"
               src="./images/pokeLogo.webp"
-              height="4em"
+              height="2.5em"
             ></Box>
-            <Search> 
+            <Search > 
               <SearchIconWrapper>
                 <SearchIcon />
               </SearchIconWrapper>
